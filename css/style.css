@@ -1,0 +1,19 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+
+.imgNav {
+  width: 4rem;
+}
+
+.imgHeader {
+  border-radius: 10px;
+}
+
+.icon {
+  font-size: 2rem;
+}
+
+/*# sourceMappingURL=style.css.map */
